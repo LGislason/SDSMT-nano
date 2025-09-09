@@ -6,7 +6,7 @@ Easy workflow for mixed-experience teams:
 - Code and notebooks in this GitHub repo
 - Click the badge to open key notebooks in Colab
 
-[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/YOUR_GITHUB_ORG/YOUR_REPO_NAME/blob/main/notebooks/00_template.ipynb)
+[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/LGislason/SDSMT-nano/blob/main/notebooks/00_template.ipynb)
 
 ## Quick start
 1. Click the Colab badge to open the starter notebook.
