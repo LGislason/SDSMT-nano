@@ -1,0 +1,10 @@
+
+pandas
+numpy
+matplotlib
+jupytext
+nbstripout
+black
+ruff
+papermill
+pyyaml

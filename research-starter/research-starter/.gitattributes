@@ -1,0 +1,3 @@
+
+# Make diff of notebooks smaller
+*.ipynb filter=nbstripout
